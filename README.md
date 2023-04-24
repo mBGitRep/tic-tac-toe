@@ -30,5 +30,5 @@ This project is all about making Tic Tac Toe as a web based programme. Its a gam
 - Score storage and tournaments.
 - increasing the size of grid from 3x3 to 5x5.
 
-## : Screenshot
+## Screenshot
 [Tic-Tac-Toe-Screen-Shot.png](https://postimg.cc/7fyZxbJN)
