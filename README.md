@@ -2,13 +2,13 @@
 # Tic Tac Toe
 
 ## :page_facing_up: About
-This project is all about making Tic Tac Toe as a web based programme.
+This project is all about making Tic Tac Toe as a web based programme. Its a game in which two players by turns put crosses and zeros in compartments of a figure formed by two vertical lines crossing two horizontal lines and each tries to get a row of three crosses or three zeros before the opponent does.
 
 ## :pencil2: Planning & Problem Solving
 - Jotdown the main logic of the game alongside functions and approach being used while writing the code.
 - Feel free to review and update your plan as you go and according to the results you get while writing the code.
 - Several attempts and redos are normal at the beginner stage.
-![reference image](/sei/projects/tic-tac-toe/ticTacToe-2023-04-20-1518%20mirzabaig.png)
+[tic-Tac-Toe-2023-04-20-1518-mirzabaig.png](https://postimg.cc/nX3FYkRd)
 
 
 
@@ -31,4 +31,4 @@ This project is all about making Tic Tac Toe as a web based programme.
 - increasing the size of grid from 3x3 to 5x5.
 
 ## : Screenshot
-![reference image](/sei/projects/tic-tac-toe/Tic%20Tac%20Toe%20Screen%20Shot.PNG)
+[Tic-Tac-Toe-Screen-Shot.png](https://postimg.cc/7fyZxbJN)
