@@ -5,9 +5,6 @@ var disabledBtn = 0
 document.querySelector("#chance").textContent = player
 function check() {
     var btn1 = document.querySelector("#btn1").textContent
-    //document.querySelector('#btn1').addEventListener("click", function() {
-      //  disableBtn("btn1");
-    //});
     var btn2 = document.querySelector("#btn2").textContent
     var btn3 = document.querySelector("#btn3").textContent
     var btn4 = document.querySelector("#btn4").textContent
@@ -19,7 +16,11 @@ function check() {
     var result = document.querySelector("#resultText")
     var reset = document.querySelector("#reset-btn")
     
-   /*document.querySelector('btn1').addEventListener('click', function() {
+   /*
+        document.querySelector('#btn1').addEventListener("click", function() {
+        disableBtn("btn1");
+        });
+        document.querySelector('btn1').addEventListener('click', function() {
         disableBtn('btn1');
         });
         document.querySelector('btn2').addEventListener('click', function() {
