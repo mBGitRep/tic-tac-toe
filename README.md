@@ -16,6 +16,7 @@ This project is all about making Tic Tac Toe as a web based programme. Its a gam
 - HTML - structure the web page.
 - CSS - style the web app using Grid, Flexbox and Animations.
 - JavaScript - Main Logic of the game.
+- Link to play is https://mbgitrep.github.io/tic-tac-toe/ 
 
 
 ## :scream: Bugs to fix :poop:
