@@ -52,7 +52,7 @@ function check() {
 
     if (btn1 === "x" && btn2 === "x" && btn3 === "x") {
         disable()
-        result.textContent = "HOOORRRAAYYY Player 1 won !"
+        result.textContent = "Player 1 won !"
         result.style.visibility = "visible"
         reset.style.visibility = "visible"
     }
@@ -210,7 +210,5 @@ function reset() {
     chance = "Player 1"
     player = chance + "'s chance"
     document.querySelector("#chance").textContent = player
-    document.querySelector("#reset-btn").style.visibility = "hidden"
-    document.querySelector("#resultText").style.visibility = "hidden"
     disabledBtn = 0
 }
