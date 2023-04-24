@@ -52,7 +52,7 @@ function check() {
 
     if (btn1 === "x" && btn2 === "x" && btn3 === "x") {
         disable()
-        result.textContent = "Player 1 won !"
+        result.textContent = "HOOORRRAAYYY Player 1 won !"
         result.style.visibility = "visible"
         reset.style.visibility = "visible"
     }

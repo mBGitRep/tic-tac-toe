@@ -15,7 +15,34 @@ h1  {
         color: rgb(186, 15, 15);
         text-align: center;
         margin-top: 40px;
-    }
+
+}
+
+@keyframes colorFade {
+            0% {
+              color: black;
+            }
+      
+            10% {
+              color: green;
+            }
+      
+            30% {
+              color: blue;
+            }
+      
+            50% {
+              color: red;
+            }
+      
+            80% {
+              color: purple;
+            }
+      
+            100% {
+              color: black;
+            }
+          }
 
 h3 {
     font-size: 35px;
@@ -58,16 +85,74 @@ h3 {
     box-shadow: inset;
 }
 
+h1 {
+    animation: colorFade 15s infinite;
+  }
+
+  @keyframes colorFade {
+    0% {
+      color: black;
+    }
+
+    10% {
+      color: rgb(119, 0, 128);
+    }
+
+    30% {
+      color: blue;
+    }
+
+    50% {
+      color: red;
+    }
+
+    80% {
+      color: purple;
+    }
+
+    100% {
+      color: black;
+    }
+}
 
 #reset-btn {
-    width: 100px;
-    height: 50px;
+    width: 120px;
+    height: 70px;
     box-shadow: inset;
     border-width: 0;
-    border-radius: 30px;
+    border-radius: 40px;
     font-weight: bold;
-    font-size: 15px;
+    font-size: 30px;
     background-color: rgb(206, 162, 214);
+}
+#reset-btn {
+    animation: colorFade 15s infinite;
+  }
+
+  @keyframes colorFade {
+    0% {
+      color: black;
+    }
+
+    10% {
+      color: rgb(119, 0, 128);
+    }
+
+    30% {
+      color: blue;
+    }
+
+    50% {
+      color: red;
+    }
+
+    80% {
+      color: purple;
+    }
+
+    100% {
+      color: black;
+    }
 }
 
 #reset-btn:hover {
